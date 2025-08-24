@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hello 👋 -  مُر حُباً
 
-<!--
-**LaMaALmegbil/LaMaALmegbil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 About Me 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I’m an Information Systems graduate from Imam Mohammad Ibn Saud University, holding the CAMP and PSM certificates. I have a passion for Data Science, Machine Learning, and Artificial Intelligence. I love to discovering more about everything related to AI. I completed a 4 month Data Science and AI bootcamp provided by Tuwaid and SDAIA. Below are my greatest achievements from the bootcamp ⬇️
+
+---
+
+## the bigest achevemnets: 
+
+-  🎯 [TeacherAssistantChatbot Project](https://github.com/LaMaALmegbil//TeacherAssistantChatbot) 
+
+---
+## 📫 you can reach me at ...
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lama-almegbil)
+[![Email](https://img.shields.io/badge/-Email-grey?logo=gmail&logoColor=white&style=for-the-badge)](mailto:m.lama.y@outlook.com)
+
