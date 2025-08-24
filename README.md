@@ -4,7 +4,7 @@
 ## 🚀 About Me 
 
 
-I’m an Information Systems graduate from Imam Mohammad Ibn Saud University, holding the CAMP and PSM certificates. I have a passion for Data Science, Machine Learning, and Artificial Intelligence. I love to discovering more about everything related to AI. I completed a 4 month Data Science and AI bootcamp provided by Tuwaid and SDAIA. Below are my greatest achievements from the bootcamp ⬇️
+I’m an Information Systems graduate from Imam Mohammad Ibn Saud University, holding the CAMP and PSM certificates. I have a passion for Data Science, Machine Learning, and Artificial Intelligence. I love to discovering more about everything related to AI. I completed a 4 month Data Science and AI bootcamp provided by Tuwaid and SDAIA. Below are my greatest achievements ⬇️
 
 ---
 
