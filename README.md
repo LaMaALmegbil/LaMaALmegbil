@@ -15,6 +15,7 @@ I’m an Information Systems graduate from Imam Mohammad Ibn Saud University, ho
 ---
 ## 📫 you can reach me at ...
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lama-almegbil)
-[![Email](https://img.shields.io/badge/-Email-grey?logo=gmail&logoColor=white&style=for-the-badge)](mailto:m.lama.y@outlook.com)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/>](https://www.linkedin.com/in/lama-almegbil)
+[<img src="https://img.icons8.com/color/48/000000/gmail.png" width="40"/>](mailto:m.lama.y@outlook.com)
+
 
